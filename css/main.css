@@ -565,7 +565,7 @@ template {
     stroke: #f8e77b;
     stroke-dashoffset: 28%; }
   .text-copy:nth-child(5) {
-    stroke: #373f51;
+    stroke: white;
     stroke-dashoffset: 35%; }
 
 @keyframes stroke-offset {
@@ -682,6 +682,7 @@ p {
   color: #373f51; }
 
 .secondary-header {
+  margin-left: 20px;
   width: 99vw;
   display: flex;
   justify-content: flex-start; }
@@ -699,7 +700,7 @@ p {
   background-color: rgba(216, 219, 226, 0.21); }
 
 .view2 {
-  padding: 10px 30px; }
+  padding: 10px 40px; }
   .view2 img {
     width: 90%;
     padding: 40px 0; }
